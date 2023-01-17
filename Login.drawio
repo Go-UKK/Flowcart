@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T03:33:07.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8DDaLz1eHteUjhJly0yg" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T03:55:22.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hmQwbrSZwrquvXCWPpX7" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="958" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
             <mxPoint x="310" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UoLvfRQz_MCoeTewIQvw-24" value="Masuk ke halaman Administrator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UoLvfRQz_MCoeTewIQvw-24" value="Masuk ke halaman pengelolaan data hotel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UoLvfRQz_MCoeTewIQvw-25" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -117,7 +117,7 @@
             <mxPoint x="310" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UoLvfRQz_MCoeTewIQvw-30" value="Masuk ke halaman Resepsionis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UoLvfRQz_MCoeTewIQvw-30" value="Masuk ke halaman pengelolaan data hotel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UoLvfRQz_MCoeTewIQvw-31" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -127,7 +127,7 @@
             <mxPoint x="220" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UoLvfRQz_MCoeTewIQvw-34" value="Masuk ke halaman Tamu" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UoLvfRQz_MCoeTewIQvw-34" value="Masuk ke halaman Beranda" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UoLvfRQz_MCoeTewIQvw-38" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
