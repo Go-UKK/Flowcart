@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T03:19:20.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="gVluSkq9FuLQobpRAImz" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T03:36:11.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AQSyE8cVQCBiawvz_G7w" version="20.8.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="login">
-    <mxGraphModel dx="1071" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -71,7 +71,7 @@
             <mxPoint x="310" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UoLvfRQz_MCoeTewIQvw-24" value="Masuk ke halaman pengelolaan data hotel" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="UoLvfRQz_MCoeTewIQvw-24" value="Masuk ke halaman admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UoLvfRQz_MCoeTewIQvw-25" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
